@@ -9,5 +9,9 @@ public class Test {
         System.out.println("еще бла бла бла");
         System.out.println("и снова бла бла бла");
         System.out.println("и еще бла");
+        System.out.println("и опять еще бла");
+        System.out.println("бла бла");
+        System.out.println("аааааааааа");
+        System.out.println("bbbbbbbbbb");
     }
 }
