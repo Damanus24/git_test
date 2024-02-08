@@ -5,5 +5,9 @@ public class Test {
         System.out.println("Привет");
         System.out.println("Как дела?");
         System.out.println("Что делаешь?");
+        System.out.println("бла бла бла бла");
+        System.out.println("еще бла бла бла");
+        System.out.println("и снова бла бла бла");
+        System.out.println("и еще бла");
     }
 }
