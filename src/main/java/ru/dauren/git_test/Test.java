@@ -11,5 +11,6 @@ public class Test {
         System.out.println("и еще бла");
         System.out.println("и опять еще бла");
         System.out.println("бла бла");
+        System.out.println("аааааааааа");
     }
 }
