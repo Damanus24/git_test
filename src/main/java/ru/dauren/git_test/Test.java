@@ -5,6 +5,6 @@ public class Test {
         System.out.println("Привет");
         System.out.println("Как дела?");
         System.out.println("Что делаешь?");
-        System.out.println("Как здоровье?");
+        System.out.println("aaaaaaaaaaaa");
     }
 }
